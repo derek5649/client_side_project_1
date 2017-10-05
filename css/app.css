@@ -1,0 +1,72 @@
+@font-face {
+ font-family: "Roboto";
+ src: url("../fonts/Roboto_Slab/RobotoSlab-Bold.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato/Lato-Hairline.ttf") format("ttf");
+}
+
+
+table {
+	border-collapse: separate;
+	border-spacing: 10 px 50 px;
+}
+
+.header {
+	background-color: #ffe1a7;
+
+}
+
+
+.main {
+	width: 100%;
+	max-width: 1024px;
+	margin: auto;
+	margin-top: -5px;
+
+	padding: 1em;
+}
+
+.background_color {
+		background-color: #bfdec3;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+h3 {
+	font-family: "Roboto", serif;
+}
+
+p li {
+	font-family: "Lato", serif;
+}
+
+footer {
+	background-color: #ffe1a7;
+	
+}
+
+.footer {
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+
+
+textarea {
+	width: 300px;
+	height: 150px;
+}
+
+
+
+
+
+
+
+
+
